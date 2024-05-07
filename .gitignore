@@ -1,0 +1,5 @@
+/venv
+*.patch
+*.rej
+
+__pycache__/
